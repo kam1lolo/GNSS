@@ -1,0 +1,32 @@
+# === Środowisko wirtualne ===
+venv/
+.venv/
+env/
+
+# === Pliki nawigacyjne BRDC ===
+brdc/*.rnx
+brdc/*.gz
+brdc/*.rnx.gz
+
+# === Python — pliki tymczasowe ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# === Zmienne środowiskowe ===
+.env
+
+# === Streamlit ===
+.streamlit/secrets.toml
+
+# === Systemy operacyjne ===
+.DS_Store          # macOS
+Thumbs.db          # Windows
+desktop.ini        # Windows
+
+# === Edytory ===
+.vscode/
+.idea/
+*.swp

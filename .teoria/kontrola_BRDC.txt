@@ -1,0 +1,48 @@
+Data obliczeń: 2026-03-01:4h15m00s
+plik: BRDC00IGS_R_20260600000_01D_MN.rnx
+satelita: 1
+Dla kontroli poprawnego wyboru ramki danych,  M0 z danych 0.1026792180759
+
+1. Czas jaki upłynął od epoki wyznaczenia efemerydy: 
+ tk = 900.000
+2. Duża półos orbity: 
+ a = 26559880.4445 [m]
+
+3. ruch sredni: 
+ n0 = 0.00014585782927215647
+4. Poprawiony ruch sredni: 
+ n = 0.00014586219159672193 [rad/s]
+
+5. Anomalia srednia: 
+ Mk = 0.23395519051294975 [rad]
+6. Anomalia mimosrodowa:
+E0 0.2343191241448928 [rad]
+E1 0.23431967987812194 [rad]
+E2 0.2343196807266997 [rad]
+E3 0.23431968072799544 [rad]
+E4 0.23431968072799744 [rad]
+7. Anomalia prawdziwa: 
+ vk = 0.23468444965598417 [rad]
+8. Argument szerokosci: 
+ phik = 0.3066028380769642 [rad]
+9. Poprawki: 
+ duk = 1.0131572037214992e-05 [rad] 
+ drk = 195.06296 [m] 
+ dik = 4.17499008728602e-09 [rad]
+
+10. Poprawione : 
+ uk = 0.3066129696490014 [rad]
+ rk = 26519519.85636 [m]
+ ik = 0.9583540424416729 [rad]
+
+11. Współrzędne satelity w układzie orbity:
+xk = 25282685.2039 [m]
+yk = 8004421.4213 [m]
+
+12. Dlugosc węzła wstępującego: 
+ OMGk = 2.022800157414295
+
+12. Współrzędne satelity w układzie ECEF:
+Xk = -15182065.604 [m]
+Yk =  20733853.812 [m]
+Zk =   6549589.568 [m]
